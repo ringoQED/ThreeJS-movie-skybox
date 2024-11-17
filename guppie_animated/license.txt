@@ -1,0 +1,11 @@
+Model Information:
+* title:	Guppie Animated
+* source:	https://sketchfab.com/3d-models/guppie-animated-53abad43280a4b7ab26bd0e6b8dea62f
+* author:	Comitre (https://sketchfab.com/Comitre)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Guppie Animated" (https://sketchfab.com/3d-models/guppie-animated-53abad43280a4b7ab26bd0e6b8dea62f) by Comitre (https://sketchfab.com/Comitre) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

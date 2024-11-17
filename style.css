@@ -1,0 +1,6 @@
+body {
+
+    margin: 0;
+    height: 100vh;      /* Span 100% viewport height */
+    overflow: hidden;   /* Hide scrollbars */
+}
